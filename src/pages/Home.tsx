@@ -54,7 +54,7 @@ export default function Home({ onNavigate }: HomeProps) {
                 Learn More
               </button>
               <a
-                href="https://calendly.com/herhydro"
+                href="https://calendly.com/omoteshowojane"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-white hover:bg-gray-100 text-cyan-600 px-8 py-4 rounded-lg text-lg font-semibold transition-colors shadow-lg flex items-center justify-center"
@@ -164,7 +164,7 @@ export default function Home({ onNavigate }: HomeProps) {
               Contact Us
             </button>
             <a
-              href="https://calendly.com/herhydro"
+              href="https://calendly.com/omoteshowojane"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gray-900 hover:bg-gray-800 text-white px-8 py-4 rounded-lg text-lg font-semibold transition-colors shadow-lg flex items-center justify-center"
