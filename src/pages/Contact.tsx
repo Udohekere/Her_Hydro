@@ -251,7 +251,7 @@ export default function Contact() {
                   Prefer to talk directly? Book a convenient time to discuss how we can work together.
                 </p>
                 <a
-                  href="https://calendly.com/omoteshowojane"
+                  href="https://calendly.com/omoteshowojane/30min"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block w-full bg-white text-cyan-600 text-center px-6 py-4 rounded-lg font-semibold hover:bg-gray-100 transition-colors"
