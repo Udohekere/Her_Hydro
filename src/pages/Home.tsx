@@ -34,7 +34,7 @@ export default function Home({ onNavigate }: HomeProps) {
         className="relative h-screen bg-cover bg-center"
         style={{
           backgroundImage:
-            "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.pexels.com/photos/1427741/pexels-photo-1427741.jpeg?auto=compress&cs=tinysrgb&w=1920')",
+            "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/WhatsApp Image 2025-10-06 at 6.43.09 AM.jpeg')",
         }}
       >
         <div className="absolute inset-0 flex items-center justify-center text-white">
@@ -79,7 +79,7 @@ export default function Home({ onNavigate }: HomeProps) {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <div>
               <img
-                src="https://images.pexels.com/photos/6646915/pexels-photo-6646915.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="/WhatsApp Image 2025-10-06 at 6.19.43 AM.jpeg"
                 alt="Community water project"
                 className="rounded-lg shadow-xl w-full h-96 object-cover"
               />
@@ -141,7 +141,7 @@ export default function Home({ onNavigate }: HomeProps) {
             </div>
             <div>
               <img
-                src="https://images.pexels.com/photos/6646917/pexels-photo-6646917.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="/WhatsApp Image 2025-10-06 at 6.39.48 AM.jpeg"
                 alt="Community volunteers"
                 className="rounded-lg shadow-2xl w-full h-96 object-cover"
               />

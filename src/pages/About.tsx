@@ -46,7 +46,7 @@ export default function About() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="https://images.pexels.com/photos/6646918/pexels-photo-6646918.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="/WhatsApp Image 2025-10-06 at 6.21.33 AM.jpeg"
                 alt="Her_Hydro team"
                 className="rounded-lg shadow-xl w-full h-96 object-cover"
               />
@@ -160,7 +160,7 @@ export default function About() {
             </div>
             <div>
               <img
-                src="https://images.pexels.com/photos/6647019/pexels-photo-6647019.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="/WhatsApp Image 2025-10-06 at 6.20.02 AM.jpeg"
                 alt="Community engagement"
                 className="rounded-lg shadow-xl w-full h-96 object-cover"
               />
@@ -173,7 +173,7 @@ export default function About() {
         className="py-20 bg-cover bg-center relative"
         style={{
           backgroundImage:
-            "linear-gradient(rgba(0, 99, 132, 0.9), rgba(0, 99, 132, 0.9)), url('https://images.pexels.com/photos/5591663/pexels-photo-5591663.jpeg?auto=compress&cs=tinysrgb&w=1920')",
+            "linear-gradient(rgba(0, 99, 132, 0.9), rgba(0, 99, 132, 0.9)), url('/WhatsApp Image 2025-10-06 at 6.19.43 AM.jpeg')",
         }}
       >
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
